@@ -46,8 +46,8 @@ export const config: Config = {
       originBlacklist: null,
     },
     server: {
-      host: "127.0.0.1",
-      port: 1111,
+      host: "unchartedsmp-99.aternos.me",
+      port: 29032,
     },
     tls: undefined,
   },
