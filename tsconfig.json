@@ -1,14 +1,12 @@
 {
   "compilerOptions": {
     "target": "ES2020",
-    "module": "CommonJS",
+    "module": "commonjs",
     "moduleResolution": "node",
     "outDir": "./build",
     "rootDir": "./src",
     "strict": false,
-    "noImplicitAny": false,
     "skipLibCheck": true,
-    "skipDefaultLibCheck": true,
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true
   },
